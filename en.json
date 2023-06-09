@@ -1,0 +1,12 @@
+{
+    "title": "MUD press",
+    "description": "Welcome to MUD press",
+    "menu": {
+        "playground": "MUD PLAYGROUND",
+        "news": "NEWS",
+        "riso": "riso",
+        "shop": "shop",
+        "about": "ABOUT",
+        "contact": "contact"
+    }
+}
