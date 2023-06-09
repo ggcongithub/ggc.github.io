@@ -1,0 +1,12 @@
+{
+    "title": "MUD 新闻",
+    "description": "欢迎来到 MUD 新闻",
+    "menu": {
+        "playground": "MUD 游乐场",
+        "news": "新闻",
+        "riso": "riso",
+        "shop": "商店",
+        "about": "关于",
+        "contact": "联系我们"
+    }
+}
