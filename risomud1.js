@@ -123,4 +123,3 @@ class Footprint {
         return this.alpha < 0;
     }
 }
-
